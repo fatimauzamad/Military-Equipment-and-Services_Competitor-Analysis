@@ -1,2 +1,7 @@
 # Military-Equipment-and-Services_Competitor-Analysis
-Hey! Welcome to my Defense and Security Systems' Insights Repository. GCC has been heavily reliant on imports; Hence, data of imports of military equipment is highly reliable for Defense and Security Systems RD organizations in the region to identify relevant opportunities to grow. Import data shows much of what the warfighter needs on the battlefield. Hence, the visualizations in this repository could be used as a starting point to; (a) direct an organization's long-term strategy, (b) evaluate current projects in the pipeline and develop a framework to redirect initiatives towards meaningful growth
+Hey! Welcome to my Arms Producing and Militay Servicing Company Market Analysis repository. This visualization provides an overview of global imports growth, market size of top global importers. Furthermore, the viz provides a market positioning analysis which can be used by players in the market to; (a) identify their positioning among global players (b) see where global players stand i.e. if they are market leaders or serve a niche or if they are just starting to grow or focus emphasis on personlization.  
+The market positioning is determined through plotting total arm sales ($) versus their arms sales (%) to sort competitors in categories namely; 
+ - Infants: competitors with sales volume falling under Quartile 1
+ - Niche: competitors with sales volume falling under Quartile 2
+ - Personalizers: competitors with sales volume falling under Quartile 3
+ - Price Leader: competitors with sales volume falling under Quartile 4
