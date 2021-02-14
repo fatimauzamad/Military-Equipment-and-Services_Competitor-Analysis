@@ -6,9 +6,12 @@ The market positioning is determined through plotting total arm sales ($) versus
  - Niche: competitors with sales volume falling under Quartile 2.
  - Personalizers: competitors with sales volume falling under Quartile 3.
  - Price Leader: competitors with sales volume falling under Quartile 4.
+  
+![](viz/competitors_analysis.png)
  
 ## Top 25 Global Players - Market Outlook
-An overall trend shows a 22.75% decline in Arm Imports from 2016-2019.
+An overall trend shows a 22.75% decline in Arm Imports from 2016-2019. As geopolitical uncertainty increase, states look to increase national sovereignty in defense capabilities. This might be an underlying reason to the pattern in imports. For example; Saudi Arabia, a nation heavily relying on imports under its Vision 2030 looks forward to achieving national sovereingty over its military goods and services by 50%.
+
 ### Market Leaders (Volume Sales)
 - United States, China, and the United Kingdom are top global suppliers.
 - France and Russia fall under the the Q2- 2nd Quartile. 
@@ -27,6 +30,10 @@ Other notable suppliers with a low % Arms Sales but high Arm Sales in 2019 inclu
 - Thales is offering arms in a Niche Market.
 - Airbus is offering arm products in the Niche and Customised/Personalised Service Market.
 These players might have a high Volume sales but it might be a point of curiosity to dig deeper to see the reason to a lower % Arms Sales. 
+
+Geopolitical issues drive defense industry and the industry is pivotal to not only helping regions improve economic indicators but also plays a critical role in eqipping the warfighter well enough to keep the nation safe. As competition grows fierce even in the regions which have little to show in military assets and/ or capabilities, competitive Intelligence plays an integral part of business acitvity and help drive strategy. Hence, players in the market should look forward to see where they stand in the competitive landscape, position well, and drive strategy for their organization with laser focus to thrive in the market.
+
+![](viz/mybanner.png)
 
 
 
